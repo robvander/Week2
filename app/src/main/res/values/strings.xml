@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Week2</string>
+    <string name="pulsar">Drukken</string>
+    <string name="frase">Yo estoy haciendo un curso de programmacion en la escuela de Azpe</string>
+    <string-array name="dia">
+        <item>lunes</item>
+    </string-array>
+<plurals name="numeroCancionesPermitidas">
+    <item quantity="one">Una cancion</item>
+    <item quantity="two">dos canciones</item>
+    <item quantity="few">poca</item>
+</plurals>
+<string name="mensajes">Tienes 1 mensajes de 2</string>
+
+</resources>
